@@ -10,6 +10,6 @@ license = "MIT"
 keywords = ["iron", "web", "persistence", "sharing", "global"]
 
 [dependencies]
-iron = "0.2"
+iron = { git = "https://github.com/r-arias/iron" }
 plugin = "0.2"
 
